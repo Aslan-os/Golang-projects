@@ -35,3 +35,5 @@ message IsAdminRequest {
 message IsAdminResponse {
     bool is_admin = 1; // Indicates whether the user in an admin.
 }
+
+message
